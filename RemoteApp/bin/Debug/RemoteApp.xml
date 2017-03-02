@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Datas>
+  <Config>
+   <RemoteProgramePath>C:\Users\Administrator\Desktop\RemoteApp-Server\RemoteAppServer\bin\Debug\RemoteAppServer.exe</RemoteProgramePath>
+   <Server>10.1.198.73</Server>
+   <Domain></Domain>
+   <UserName>win-e3u69pl2mvj\administrator</UserName>
+   <Password>Winserver2008</Password>
+   <AutoConnect>true</AutoConnect>
+  </Config>
+ </Datas>
+</Configs>
